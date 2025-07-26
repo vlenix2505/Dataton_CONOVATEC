@@ -1,3 +1,7 @@
 venv
-*zip
-*csv
+**zip
+**csv
+**parquet
+.ipynb_checkpoints
+artifacts
+__pycache__

@@ -1,0 +1,1 @@
+⚠️ Nota: Se ha omitido el archivo .parquet del repositorio debido a su tamaño (~2 GB).
